@@ -1,11 +1,3 @@
----
-Module Name: Qlik-Cli
-Module Guid: 730275fa-35db-42e2-9400-eac7e3043ea4
-Download Help Link: {{Please enter FwLink manually}}
-Help Version: {{Please enter version of help manually (X.X.X.X) format}}
-Locale: en-US
----
-
 # Qlik-Cli Module
 ## Description
 {{Manually Enter Description Here}}
