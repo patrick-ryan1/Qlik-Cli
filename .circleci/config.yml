@@ -114,7 +114,10 @@ workflows:
   version: 2
   test-and-deploy:
     jobs:
-      - test
+      - test:
+          filters:
+            branches:
+              ignore: gh-pages
       - publish-powershell-gallery:
           requires:
             - test
